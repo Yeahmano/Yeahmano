@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeahmano">
+<img src ="https://github-readme-activity-graph.cyclic.app/graph?username=Yeahmano">
+<img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yeahmano&theme=dark" >
+<img src ="https://github-profile-trophy.vercel.app/?username=Yeahmano&theme=dark">
 <!--
 **Yeahmano/Yeahmano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
