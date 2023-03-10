@@ -1,3 +1,6 @@
+<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeahmano">
 <img src ="https://github-readme-activity-graph.cyclic.app/graph?username=Yeahmano">
 <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yeahmano&theme=dark" >
