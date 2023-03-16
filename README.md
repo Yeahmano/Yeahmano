@@ -1,9 +1,5 @@
 <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeahmano&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yeahmano&theme=onedark&show_icons=ture" />
-</p>
 <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeahmano">
 <img src ="https://github-readme-activity-graph.cyclic.app/graph?username=Yeahmano">
 <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yeahmano&theme=dark" >
